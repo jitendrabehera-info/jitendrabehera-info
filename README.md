@@ -1,18 +1,108 @@
-# 💫 About Me:
-<br>- 🔐 Passionate about **Cybersecurity & Ethical Hacking**<br>- 🐞 Active in **Bug Bounty Hunting**<br>- 🌐 Learning **Networking (Switching & Routing)**<br>- 🛠️ Hands-on with **Vulnerability Assessment & Web Security**<br>- 🎯 Goal: Become a **Skilled Network & Security Engineer**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jitendrabehera-info/jitendrabehera-info/main/banner.png" />
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/jitendra-behera-a66154236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jitendrabehera.info@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jitendra&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Jitendra&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jitendra&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Bug+Bounty+Hunter;System+Analyst;Kali+Linux+%7C+Windows+Server;Exploit+Today+Secure+Tomorrow" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jitendra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+┌──(whoami)──────────────────────────────
+│ name   : jitendra_behera
+│ role   : security researcher | System Analyst
+│ focus  : bug bounty | Network Security | Cybersecurity
+│ skills : web security | network security | osint | SIEM
+│ tools  : burp suite | nmap | wireshark 
+│ os     : kali linux | windows server | Ubantu Server
+│ status : always learning
+└───────────────────────────────────────
+```
+
+---
+
+## ⚡ SYSTEM STATUS
+
+```bash
+[✓] Bug Hunting In-active
+[✓] Networking Labs Running
+[✓] Security Tools Development
+[✓] Learning Advanced Exploitation
+```
+
+---
+
+## 🧰 TOOLS OF THE TRADE
+
+```bash
+BurpSuite   Nmap   Wireshark   Metasploit
+Amass       Subfinder   FFUF   Gobuster
+SQLmap      Dirsearch   Hydra   John
+Aircrack-ng Netcat     Shodan
+```
+
+---
+
+## 🖥️ ENVIRONMENT
+
+```bash
+Kali Linux      → Penetration Testing Lab
+Windows Server  → Administration & Networking
+Solar Wind      → Monitoring & logs analysis
+```
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jitendrabehera-info&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🎯 MISSION
+
+```bash
+Find Bugs → Fix Flaws → Secure Systems
+```
+
+---
+
+## 📜 CERTIFICATIONS
+
+```bash
+[✓] Certified AppSec Practitioner
+[✓] Certified Cyber Security Analyst
+[✓] Lifelong Learner
+```
+
+---
+
+## 📫 CONNECT
+
+```bash
+email    : jitendrabehera.info@gmail.com
+linkedin : linkedin.com/in/jitendra-behera-a66154236
+github   : github.com/jitendrabehera-info
+```
+
+---
+
+## ⚡ FUN FACT
+
+```bash
+I break systems... to secure them 🔐
+```
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jitendrabehera-info&color=00ffcc&style=flat-square"/>
+</p>
+
+<p align="center">
+💀 STAY CURIOUS • STAY SECURE 💀
+</p>
+
